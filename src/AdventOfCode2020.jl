@@ -1,5 +1,5 @@
 module AdventOfCode2020
 
-# Write your package code here.
+include("day01/day01.jl")
 
 end
